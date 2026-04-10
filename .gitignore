@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Tauri
+src-tauri/target/
+src-tauri/dist/
+src-tauri/.tauriignore
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Config (contains API keys)
+config.json
+*.local.json
