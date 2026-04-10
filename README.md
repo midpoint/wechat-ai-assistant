@@ -93,3 +93,6 @@ src-tauri/target/release/wechat-ai-assistant.exe
 
 - 请妥善保管 API Key，不要提交到代码仓库
 - 建议使用小号测试
+
+🌐 社区
+本项目受到 [LINUX DO 社区](https://linux.do/)的支持与推广。
