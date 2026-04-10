@@ -1,3 +1,5 @@
+<img width="916" height="739" alt="screenshot" src="https://github.com/user-attachments/assets/ab4b45e6-63bf-4406-ba59-cc88cb9f02f2" />
+
 # WeChat AI Assistant
 
 基于 Tauri 的微信聊天回复助手。使用 AI 根据聊天内容和选择的语气生成回复。
