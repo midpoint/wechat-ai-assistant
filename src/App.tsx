@@ -45,6 +45,7 @@ function App() {
     try {
       await invoke("save_config", { newConfig });
       setConfig(newConfig);
+      setShowSettings(false);
     } catch (err) {
       console.error("Failed to save config:", err);
     }
